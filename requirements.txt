@@ -1,0 +1,11 @@
+numexpr
+huggingface_hub
+streamlit
+langchain_community
+langchain
+python-dotenv
+langchain_core
+langchain_groq
+ipykernel
+validators==0.28.1
+wikipedia
